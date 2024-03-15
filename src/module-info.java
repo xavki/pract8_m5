@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author cfgs
- *
- */
-module operacions {
-}
